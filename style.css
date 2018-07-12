@@ -84,6 +84,7 @@ div {
 /*code pour la partie profil*/
 .profil{
   height: 26px;
+  align=center;
   font-size: 30px;
   color: red;
   margin-top: 8px;
