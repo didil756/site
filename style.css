@@ -94,6 +94,7 @@ div {
 /*code pour le logo*/
 .logo{
   height: 150px;
+  align=center;
   margin-left: 750px;
 
 }
